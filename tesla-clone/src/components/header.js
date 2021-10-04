@@ -4,7 +4,7 @@ import styled from 'styled-components';
 function header() {
     return (
         <Container>
-            Hello my name is sek
+            Hello my 
         </Container>
     )
 }

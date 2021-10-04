@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
     "styled-components": "^5.3.1"
   }
 }
