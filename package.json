@@ -6,6 +6,7 @@
     "@material-ui/icons": "^4.11.2",
     "@mui/icons-material": "^5.0.1",
     "@mui/material": "^5.0.2",
+    "react-reveal": "^1.2.2",
     "styled-components": "^5.3.1"
   }
 }
